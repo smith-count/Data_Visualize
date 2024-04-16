@@ -10,4 +10,4 @@ Data_Visualize
 
 ### 关于配置
 >+ python 3.9
-+ windows 11
+>+ windows 11
